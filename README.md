@@ -169,14 +169,10 @@
 | ![앱 화면 예시](https://github.com/user-attachments/assets/f3930d3d-22ef-4738-bda3-c37eb411672c) | ![앱 화면 예시](https://github.com/user-attachments/assets/154a19cd-d745-40ae-ba36-ba49dcf927ae) | ![앱 화면 예시](https://github.com/user-attachments/assets/23dd5ade-51ec-4196-a09d-70b67ede4753) | ![앱 화면 예시](https://github.com/user-attachments/assets/60aa2307-eef0-4f18-bd3e-58a24db1147e) |
 
 
-|  스토리 생성 & 네컷 만화 생성      |  놀이방 - 만화방 |   생성된 스토리 결과  |
+|  스토리 생성 & 네컷 만화 생성      |  놀이방 - 만화방 |   놀이방 - 발음 스피드 퀴즈  |
 |:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| ![앱 화면 예시](https://github.com/user-attachments/assets/ebe408a3-a466-424b-9f8a-14a17fc458d9) | ![앱 화면 예시](https://github.com/user-attachments/assets/c50d6cdd-93ff-4a6d-8668-401f78d98b12) | ![네컷 스토리 3](https://via.placeholder.com/400x800) |
+| ![앱 화면 예시](https://github.com/user-attachments/assets/ebe408a3-a466-424b-9f8a-14a17fc458d9) | ![앱 화면 예시](https://github.com/user-attachments/assets/c50d6cdd-93ff-4a6d-8668-401f78d98b12) | ![네컷 스토리 3](https://github.com/user-attachments/assets/a15c5a06-8867-4ef0-9631-eb20826f5d2d) |
 
-
-|  놀이방 - 발음 스피드 퀴즈    |  x |  x  |
-|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| ![앱 화면 예시](https://github.com/user-attachments/assets/30c50fc9-5109-4e3a-969d-8cef5fe4989e) | ![앱 화면 예시]() | ![네컷 스토리 3]() |
 
 ### 그림 인식 AI 시스템 아키텍처
 
